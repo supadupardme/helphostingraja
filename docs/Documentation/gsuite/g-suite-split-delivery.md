@@ -15,6 +15,7 @@ metadata:
 next:
   description: ''
 ---
+```mdx
 <h2>G Suite split delivery</h2>
 <p><b>step 1: </b>Add a mail route for a domain</p>
 <ol>
@@ -28,7 +29,7 @@ next:
 <li>E.g pluto.dnsindia.net:25</li>
 </ol>
 <p> </p>
-<p>Source: <a target="_blank">https://support.google.com/a/answer/2614757</a></p>
+<p>Source: <a target="_blank" href="https://support.google.com/a/answer/2614757">https://support.google.com/a/answer/2614757</a></p>
 <p> </p>
 <h2><b>step 2: </b>Set up routing for your domain or organization</h2>
 <p> </p>
@@ -40,7 +41,19 @@ next:
 <p>Step 3: Specify what happens to the messages &gt; refer two snapshots below.</p>
 <p> </p>
 <p>https://support.google.com/a/answer/6297084#initial-step</p>
-<p><br /><img src="https://image.hostingraja.in/images/articles/gsuite-split-delivery/gsuite-spli-delivery-1.jpg" /><br /><br /><br /><br /><br /> <img src="https://image.hostingraja.in/images/articles/gsuite-split-delivery/gsuite-split-delivery-31.PNG" /><br /><br /><br /><br /><br /> <img src="https://image.hostingraja.in/images/articles/gsuite-split-delivery/gsuite-split-delivery-4.PNG" /><br /><br /><br /><br /><br /> <img src="https://image.hostingraja.in/images/articles/gsuite-split-delivery/gsuite-split-delivery-5.PNG" /><br /><br /><br /><br /><br /> <img src="https://image.hostingraja.in/images/articles/gsuite-split-delivery/gsuite-split-delivery-6.PNG" /><br /><br /><br /><br /><br /></p>
+<p>
+  <br />
+  <img src="https://image.hostingraja.in/images/articles/gsuite-split-delivery/gsuite-spli-delivery-1.jpg" />
+  <br /><br /><br /><br /><br />
+  <img src="https://image.hostingraja.in/images/articles/gsuite-split-delivery/gsuite-split-delivery-31.PNG" />
+  <br /><br /><br /><br /><br />
+  <img src="https://image.hostingraja.in/images/articles/gsuite-split-delivery/gsuite-split-delivery-4.PNG" />
+  <br /><br /><br /><br /><br />
+  <img src="https://image.hostingraja.in/images/articles/gsuite-split-delivery/gsuite-split-delivery-5.PNG" />
+  <br /><br /><br /><br /><br />
+  <img src="https://image.hostingraja.in/images/articles/gsuite-split-delivery/gsuite-split-delivery-6.PNG" />
+  <br /><br /><br /><br /><br />
+</p>
 <p><b>step 3</b><b>: Setup Email Forwarder from legacy email service</b></p>
 <p> </p>
 <p>set email forwarder for<strong> <img src="https://image.hostingraja.in/images/articles/gsuite-split-delivery/gsuite-spli-delivery-3.jpg" /> </strong>in legacy email service (cpanel/plesk or RC), note: you need to create email forwarders for all Email accounts which are created in G suite panel.</p>
@@ -56,10 +69,12 @@ next:
 <p>step2&gt; go to cpanel dns&gt; add txt record name “google._domainkey” and paste the same value which generated from G Suite panel&gt; keep TTL 300 or as low as possible.</p>
 <p> </p>
 <p>Step3&gt; go to admin.google.com&gt;apps&gt;g suite settings for gmail&gt;authenticate email&gt; start authentication.</p>
-<p><br />you can cross-check records with this tool: <a href="https://toolbox.googleapps.com/apps/checkmx/" target="_blank">https://toolbox.googleapps.com/apps/checkmx/</a></p> 
+<p><br />you can cross-check records with this tool: <a href="https://toolbox.googleapps.com/apps/checkmx/" target="_blank">https://toolbox.googleapps.com/apps/checkmx/</a></p>
 <ul class="pager pagenav">
-<li class="next">
-<a class="hasTooltip" href="/docs/g-suite-data-migration-1/">
-<span>Next</span> <span class="icon-chevron-right"></span> </a>
-</li>
+  <li class="next">
+    <a class="hasTooltip" href="/docs/g-suite-data-migration-1/">
+      <span>Next</span> <span class="icon-chevron-right"></span>
+    </a>
+  </li>
 </ul>
+```
