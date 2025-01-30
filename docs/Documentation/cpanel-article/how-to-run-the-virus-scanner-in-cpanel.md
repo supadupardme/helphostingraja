@@ -10,6 +10,7 @@ metadata:
 next:
   description: ''
 ---
+```mdx
 <div class="page-header">
 </div>
 <dl class="article-info muted">
@@ -29,7 +30,7 @@ Last Updated: 07 January 2024 </time>
 <p dir="ltr"><img src="https://image.hostingraja.in/images/helphostingraja/virus-scanner.webp" width="624" height="228" border="0" /></p>
 <p dir="ltr"> </p>
 <p dir="ltr">3. Select the service to scan.</p>
-<ul style="margin-left: 30px;">
+<ul style={{ marginLeft: "30px" }}>
 <li>Scan Mail — Scans all of your account's mail folders.</li>
 <li>Scan Entire Home Directory — Scans your account's home directory.</li>
 <li>Scan Public FTP Space — Scans all of the folders that you can publicly access through FTP services.</li>
@@ -49,4 +50,4 @@ Last Updated: 07 January 2024 </time>
 <span aria-hidden="true">Next</span> <span class="icon-chevron-right" aria-hidden="true"></span> </a>
 </li>
 </ul>
-</div>
+```
