@@ -15,7 +15,7 @@ metadata:
 next:
   description: ''
 ---
-```xml
+```text
 <h2>G Suite split delivery</h2>
 <p><b>step 1: </b>Add a mail route for a domain</p>
 <ol>
