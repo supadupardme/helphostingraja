@@ -25,7 +25,8 @@ next:
           title="Title"
           data-content="Select to sort by this column"
           data-placement="top"
-          data-cf-modified-8d8c4a55051bbe2f74f7e09b->
+          data-cf-modified="8d8c4a55051bbe2f74f7e09b"  <!-- Corrected this line -->
+        >
           Title
         </a>
       </th>
@@ -37,7 +38,8 @@ next:
           title="Hits"
           data-content="Select to sort by this column"
           data-placement="top"
-          data-cf-modified-8d8c4a55051bbe2f74f7e09b->
+          data-cf-modified="8d8c4a55051bbe2f74f7e09b"  <!-- Corrected this line -->
+        >
           Hits
         </a>
       </th>
@@ -62,4 +64,5 @@ next:
     </tr>
   </tbody>
 </table>
+
 ```
