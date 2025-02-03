@@ -12,7 +12,7 @@ metadata:
 next:
   description: ''
 ---
-```mdx
+```mdx html
 <table class="category table table-striped table-bordered table-hover">
   <caption class="hide">List of articles in category GSuite</caption>
   <thead>
