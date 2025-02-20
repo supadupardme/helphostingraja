@@ -10,7 +10,7 @@ metadata:
 next:
   description: ''
 ---
-```mdx
+```html
 <div class="page-header">
   <h2 itemprop="headline">
     cPanel FTP Sessions
