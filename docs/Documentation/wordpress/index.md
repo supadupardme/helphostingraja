@@ -10,6 +10,7 @@ metadata:
 next:
   description: ''
 ---
+
 ```mdx
 <table class="category table table-striped table-bordered table-hover">
     <caption class="hide">List of articles in category WordPress</caption>

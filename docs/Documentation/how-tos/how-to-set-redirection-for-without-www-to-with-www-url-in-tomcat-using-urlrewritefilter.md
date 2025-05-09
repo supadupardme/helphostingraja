@@ -14,9 +14,10 @@ metadata:
 next:
   description: ''
 ---
+
 ```mdx
-<div itemprop="articleBody">
-    <h1 dir="ltr" style={{ textAlign: "center" }}>
+<div itemprop="articleBody"></div>
+    
         <span style={{ fontSize: "x-large" }}>
             <strong>How to set redirection for without WWW to with WWW URL in Tomcat using UrlRewriteFilter</strong>
         </span>

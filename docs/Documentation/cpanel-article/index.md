@@ -10,21 +10,21 @@ metadata:
 next:
   description: ''
 ---
-<table class="category table table-striped table-bordered table-hover">
-        <caption class="hide">List of articles in category cPanel</caption>
+
+List of articles in category cPanel
         <thead>
         <tr>
         <th scope="col" id="categorylist_header_title">
-        <a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; Joomla.tableOrdering('a.title','asc','', document.getElementById('adminForm'));return false;" class="hasPopover" title="Title" data-content="Select to sort by this column" data-placement="top" data-cf-modified-11fc9bf10d76b4001ac92eea->Title</a> </th>
+        Title </th>
         <th scope="col" id="categorylist_header_hits">
-        <a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; Joomla.tableOrdering('a.hits','asc','');return false;" class="hasPopover" title="Hits" data-content="Select to sort by this column" data-placement="top" data-cf-modified-11fc9bf10d76b4001ac92eea->Hits</a> </th>
+        Hits </th>
         </tr>
         </thead>
         <tbody>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-reset-cpanel-password-from-hostingraja-clientarea">
-        How to Reset cPanel password from HostingRaja ClientArea </a>
+        
+        How to Reset cPanel password from HostingRaja ClientArea 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -33,8 +33,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/installing-a-free-ssl-via-the-cpanel-autossl-feature">
-        Installing a Free SSL via the cPanel AutoSSL Feature </a>
+        
+        Installing a Free SSL via the cPanel AutoSSL Feature 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -43,8 +43,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/reseller-cpanel-invoice-credits">
-        Reseller cPanel invoice credits </a>
+        
+        Reseller cPanel invoice credits 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -53,8 +53,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-enable-short-open-tag-on-in-cpanel">
-        How to enable “short_open_tag” On in cPanel </a>
+        
+        How to enable “short_open_tag” On in cPanel 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -63,8 +63,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-calculate-my-cpu-usage-in-cpanel">
-        how-to-calculate-my-cpu-usage-in-cpanel </a>
+        
+        how-to-calculate-my-cpu-usage-in-cpanel 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -73,8 +73,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-run-the-virus-scanner-in-cpanel">
-        how-to-run-the-virus-scanner-in-cpanel </a>
+        
+        how-to-run-the-virus-scanner-in-cpanel 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -83,8 +83,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-configure-email-authentication-in-cpanel">
-        How to configure Email authentication in cPanel </a>
+        
+        How to configure Email authentication in cPanel 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -93,8 +93,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-set-up-email-default-address-in-cpanel">
-        How to set up Email Default Address in cPanel </a>
+        
+        How to set up Email Default Address in cPanel 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -103,8 +103,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/cpanel-price-hike-and-its-impact-on-prices">
-        cPanel Price hike and its impact on prices </a>
+        
+        cPanel Price hike and its impact on prices 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -113,8 +113,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="https://www.hostingraja.in/hosting/cpanel-hosting/">
-        cPanel Hosting </a>
+        
+        cPanel Hosting 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -123,8 +123,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/changing-file-permissions-in-cpanel">
-        Changing File Permissions in cPanel </a>
+        
+        Changing File Permissions in cPanel 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -133,8 +133,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-backup-restore-a-website-in-cpanel">
-        How to backup restore a website </a>
+        
+        How to backup restore a website 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -143,8 +143,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-can-i-reset-my-cpanel-password-for-my-domain">
-        How can I reset my cPanel password for my domain? </a>
+        
+        How can I reset my cPanel password for my domain? 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -153,8 +153,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-configure-cpanel-email-id-in-gmail">
-        How to Configure Cpanel Email ID in Gmail </a>
+        
+        How to Configure Cpanel Email ID in Gmail 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -163,8 +163,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-login-using-ssh-key-in-cpanel">
-        How to login using SSH Key in cPanel </a>
+        
+        How to login using SSH Key in cPanel 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -173,8 +173,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-change-cpanel-style">
-        How to Change cPanel Style? </a>
+        
+        How to Change cPanel Style? 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -183,8 +183,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/choosing-the-php-version-in-cpanel-host-services">
-        Choosing the PHP Version in cPanel Host Services </a>
+        
+        Choosing the PHP Version in cPanel Host Services 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -193,8 +193,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/cpanel-file-manager-how-to-move-a-file-to-a-folder">
-        cPanel FIle Manager : How to Move a File to a Folder? </a>
+        
+        cPanel FIle Manager : How to Move a File to a Folder? 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -203,8 +203,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-add-an-apache-handler-in-cpanel">
-        How to Add an Apache Handler in cPanel? </a>
+        
+        How to Add an Apache Handler in cPanel? 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -213,8 +213,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/import-your-email-accounts-and-forwarders-into-cpanel">
-        Import your Email Accounts and Forwarders into cPanel </a>
+        
+        Import your Email Accounts and Forwarders into cPanel 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -223,8 +223,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-configure-the-mime-types-in-cpanel">
-        How to configure the MIME types in cPanel? </a>
+        
+        How to configure the MIME types in cPanel? 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -233,8 +233,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-generate-the-csr-certificate-for-particular-domain-in-cpanel">
-        How to generate the csr certificate for particular domain in shared server </a>
+        
+        How to generate the csr certificate for particular domain in shared server 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -243,8 +243,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-use-the-backup-wizard-in-cpanel">
-        How to use the backup wizard in cpanel? </a>
+        
+        How to use the backup wizard in cpanel? 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -253,8 +253,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-create-and-manage-mailing-lists-in-cpanel-1">
-        How to create and manage mailing lists in cPanel? </a>
+        
+        How to create and manage mailing lists in cPanel? 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -263,8 +263,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-install-applications-in-cpanel">
-        How to Install Applications in cPanel? </a>
+        
+        How to Install Applications in cPanel? 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -273,8 +273,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-protect-directories-with-a-password-in-cpanel">
-        How to protect directories with a password </a>
+        
+        How to protect directories with a password 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -283,8 +283,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-create-custom-error-pages-in-cpanel">
-        How to Create Custom Error Pages in cPanel? </a>
+        
+        How to Create Custom Error Pages in cPanel? 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -293,8 +293,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/setting-up-autoresponders-in-cpanel">
-        Setting up AutoResponders in cPanel </a>
+        
+        Setting up AutoResponders in cPanel 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -303,8 +303,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/upload-your-website-files-in-cpanel">
-        Upload your website files in cPanel </a>
+        
+        Upload your website files in cPanel 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -313,8 +313,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/migration-of-http-to-https-in-cpanel">
-        Migration of http to https in cPanel </a>
+        
+        Migration of http to https in cPanel 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -323,8 +323,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/disk-usage-in-a-cpanel">
-        Disk Usage in a cPanel </a>
+        
+        Disk Usage in a cPanel 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -333,8 +333,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/linux-hosting-cpanel-images">
-        Linux Hosting - cPanel Images </a>
+        
+        Linux Hosting - cPanel Images 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -343,8 +343,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/statistics-and-dashboard-in-a-cpanel">
-        Statistics and Dashboard in a cPanel </a>
+        
+        Statistics and Dashboard in a cPanel 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -353,8 +353,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/create-a-spam-email-filter-in-cpanel">
-        Create a spam email filter In cPanel </a>
+        
+        Create a spam email filter In cPanel 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -363,8 +363,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/create-an-email-filter-in-cpanel">
-        Create a email filter In Cpanel </a>
+        
+        Create a email filter In Cpanel 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -373,8 +373,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-create-a-cpanel-account-in-whm">
-        How to create a cPanel account in WHM </a>
+        
+        How to create a cPanel account in WHM 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -383,8 +383,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/about-joomla-and-how-to-install-joomla-on-cpanel">
-        About Joomla and How to install Joomla on cPanel </a>
+        
+        About Joomla and How to install Joomla on cPanel 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -393,8 +393,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-install-wordpress-on-cpanel">
-        How to install WordPress on cPanel </a>
+        
+        How to install WordPress on cPanel 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -403,8 +403,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-set-up-cron-jobs-in-cpanel">
-        How To Set Up Cron Jobs In cPanel </a>
+        
+        How To Set Up Cron Jobs In cPanel 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -413,8 +413,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-configure-e-mail-authentication-in-cpanel">
-        How to configure e-mail authentication in cPanel </a>
+        
+        How to configure e-mail authentication in cPanel 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -423,8 +423,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-do-i-increase-the-php-upload-limits-in-cpanel">
-        How Do I Increase The PHP Upload Limits in cPanel? </a>
+        
+        How Do I Increase The PHP Upload Limits in cPanel? 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -432,4 +432,3 @@ next:
         </td>
         </tr>
         </tbody>
-        </table>

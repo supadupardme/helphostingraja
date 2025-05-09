@@ -10,21 +10,21 @@ metadata:
 next:
   description: ''
 ---
-<table class="category table table-striped table-bordered table-hover">
-        <caption class="hide">List of articles in category Email Help</caption>
+
+List of articles in category Email Help
         <thead>
         <tr>
         <th scope="col" id="categorylist_header_title">
-        <a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; Joomla.tableOrdering('a.title','asc','', document.getElementById('adminForm'));return false;" class="hasPopover" title="Title" data-content="Select to sort by this column" data-placement="top" data-cf-modified-6717c902ee917dff636fbb37->Title</a> </th>
+        Title </th>
         <th scope="col" id="categorylist_header_hits">
-        <a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; Joomla.tableOrdering('a.hits','asc','');return false;" class="hasPopover" title="Hits" data-content="Select to sort by this column" data-placement="top" data-cf-modified-6717c902ee917dff636fbb37->Hits</a> </th>
+        Hits </th>
         </tr>
         </thead>
         <tbody>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/get-unsolicited-emails-or-phone-calls-after-registering-the-domain-name-and-web-hosting-with-us">
-        Get unsolicited Emails or phone calls after registering the domain name and web hosting with us. </a>
+        
+        Get unsolicited Emails or phone calls after registering the domain name and web hosting with us. 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -33,8 +33,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-add-a-dkim-txt-record-to-the-domain">
-        How to add a DKIM TXT record to the domain? </a>
+        
+        How to add a DKIM TXT record to the domain? 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -43,8 +43,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-create-a-mailing-list-in-plesk">
-        How to create a mailing list in Plesk? </a>
+        
+        How to create a mailing list in Plesk? 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -53,8 +53,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/emails-how-tos">
-        Emails How Tos </a>
+        
+        Emails How Tos 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -63,8 +63,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-add-email-signature-in-android">
-        How to add Email Signature in Android? </a>
+        
+        How to add Email Signature in Android? 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -73,8 +73,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-do-email-configuration-for-windows">
-        How to do Email configuration for Windows? </a>
+        
+        How to do Email configuration for Windows? 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -83,8 +83,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-set-email-configuration-for-iphone">
-        How to set Email configuration For iPhone? </a>
+        
+        How to set Email configuration For iPhone? 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -93,8 +93,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-add-email-signature-in-windows-phone">
-        How to add Email Signature in Windows Phone? </a>
+        
+        How to add Email Signature in Windows Phone? 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -103,8 +103,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-add-email-signature-in-iphone">
-        How to add Email Signature in iPhone? </a>
+        
+        How to add Email Signature in iPhone? 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -113,8 +113,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-add-an-email-signature-in-outlook">
-        How to add an email signature in Outlook? </a>
+        
+        How to add an email signature in Outlook? 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -123,8 +123,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-configure-email-routing">
-        How to Configure Email Routing? </a>
+        
+        How to Configure Email Routing? 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -133,8 +133,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/creating-and-managing-email-accounts">
-        Creating and Managing Email Accounts </a>
+        
+        Creating and Managing Email Accounts 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -143,8 +143,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-create-an-email-account-forwarder">
-        How to Create an Email Account Forwarder? </a>
+        
+        How to Create an Email Account Forwarder? 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -153,8 +153,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-create-and-manage-subdomains">
-        How to Create and Manage Subdomains? </a>
+        
+        How to Create and Manage Subdomains? 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -163,8 +163,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-publish-a-site-using-adobe-muse">
-        How to publish a site using Adobe Muse </a>
+        
+        How to publish a site using Adobe Muse 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -173,8 +173,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-adjust-the-time-zone-of-webmail">
-        How to adjust the time zone of Webmail </a>
+        
+        How to adjust the time zone of Webmail 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -183,8 +183,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-set-up-a-catch-all-email-address">
-        How to set up a catch-all email address </a>
+        
+        How to set up a catch-all email address 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -193,8 +193,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-set-email-signatures-in-webmail">
-        How to set Email Signatures in WebMail </a>
+        
+        How to set Email Signatures in WebMail 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -203,8 +203,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-access-my-emails-in-webmail">
-        How to access my emails in webmail? </a>
+        
+        How to access my emails in webmail? 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -213,8 +213,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/manually-set-up-e-mail-with-windows-live-mail-using-pop3">
-        Manually Set Up E-mail with Windows Live Mail using POP3 </a>
+        
+        Manually Set Up E-mail with Windows Live Mail using POP3 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -223,8 +223,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/configuring-e-mail-in-android-phones">
-        Configuring E-Mail in Android Phones </a>
+        
+        Configuring E-Mail in Android Phones 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -233,8 +233,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/how-to-test-php-email-functionality">
-        How to test php email functionality </a>
+        
+        How to test php email functionality 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -243,8 +243,8 @@ next:
         </tr>
         <tr class="cat-list-row0">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/outlook-e-mail-configuration">
-        Outlook E-Mail Configuration? </a>
+        
+        Outlook E-Mail Configuration? 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -253,8 +253,8 @@ next:
         </tr>
         <tr class="cat-list-row1">
         <td headers="categorylist_header_title" class="list-title">
-        <a href="/docs/email-configuration-setting-for-pop3-account">
-        Email configuration setting for POP3 Account? </a>
+        
+        Email configuration setting for POP3 Account? 
         </td>
         <td headers="categorylist_header_hits" class="list-hits">
         <span class="badge badge-info">
@@ -262,4 +262,3 @@ next:
         </td>
         </tr>
         </tbody>
-        </table>

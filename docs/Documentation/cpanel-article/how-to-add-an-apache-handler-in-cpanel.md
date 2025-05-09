@@ -10,6 +10,7 @@ metadata:
 next:
   description: ''
 ---
+
 ```mdx
 <div class="page-header">
 </div>
@@ -24,21 +25,21 @@ next:
     </span>
   </h1>
   <br />
-  <p dir="ltr">
+  <p dir="ltr"></p>
     <span style={{ fontSize: "x-large" }}>
       <strong>What is an Apache Handler in cpanel?</strong>
     </span>
   </p>
   <br />
-  <p dir="ltr">
+  <p dir="ltr"></p>
     Apache Handler is a method of telling the Apache software how to process the given type of file. By default, Apache itself handles the certain type of files. You can also configure Apache handlers for different file types by making use of cPanel. Apache handlers control your website’s Apache web server software manages certain file types and file extensions. Apache is able to configure to handle CGI scripts and server-parsed files. Their file extensions consists of .cgi, .pl, .plx, .ppl, .perl, and .shtml
   </p>
   <br />
-  <p dir="ltr">
+  <p dir="ltr"></p>
     The cPanel hosting is the first choice <a href="https://www.hostingraja.in/" target="_blank" rel="noopener noreferrer">website hosting</a> platform for several webmasters, beginners as well as the advanced users. cPanel is user-friendly and advanced web applications are included within the<a href="https://www.hostingraja.in/hosting/cpanel-hosting/"><b> cPanel hosting</b></a> packages at reasonable costs. In our cpanel hosting services, you will be offered the best services along with excellent support.
   </p>
   <br />
-  <p dir="ltr">
+  <p dir="ltr"></p>
     <span style={{ fontSize: "x-large" }}>
       <strong>Steps to Add an Apache Handler in cPanel:</strong>
     </span>
@@ -61,7 +62,7 @@ next:
   <p dir="ltr">Finally, the Apache Handler will be added. It will look like the below screenshot.</p>
   <p dir="ltr"> </p>
   <br /><br />
-  <p dir="ltr">
+  <p dir="ltr"></p>
     A cPanel is one of the most simple tools when it comes to managing a web account. Our hosting plans come with a pre-installed cPanel making it very simple for our customers to control their website with the help of a single hosting<a href="/cpanel-article/how-to-create-a-cpanel-account-in-whm"><b> cPanel account.</b></a> Get the best cpanel <a href="https://www.hostingraja.in/">hosting services</a> from<a href="https://www.hostingraja.in/hosting/compare-hosting-plans/"><b> HostingRaja.</b></a>
   </p>
 </div>

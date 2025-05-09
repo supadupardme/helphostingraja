@@ -10,6 +10,7 @@ metadata:
 next:
   description: ''
 ---
+
 ```mdx
 <table className="category table table-striped table-bordered table-hover">
   <caption className="hide">List of articles in category FTP Help</caption>

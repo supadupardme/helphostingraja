@@ -12,6 +12,7 @@ metadata:
 next:
   description: ''
 ---
+
 ```mdx
 <div class="page-header">
   <h2 itemprop="headline">
@@ -38,14 +39,14 @@ next:
   </span>
   <ol>
     <li>
-      <p>
+      <p></p>
         <span style={{ fontWeight: "400", fontSize: "12pt" }}>
           Login to Cpanel.
         </span>
       </p>
     </li>
     <li>
-      <p>
+      <p></p>
         <span style={{ fontWeight: "400", fontSize: "12pt" }}>
           Click on "File Manager" and open the installations.php file under the
           .softaculous folder.
@@ -53,7 +54,7 @@ next:
       </p>
     </li>
     <li>
-      <p>
+      <p></p>
         <span style={{ fontWeight: "400", fontSize: "12pt" }}>
           Copy the content and paste it in the{" "}
           <a href="https://www.unserialize.com/">
@@ -65,7 +66,7 @@ next:
       </p>
     </li>
     <li>
-      <p>
+      <p></p>
         <span style={{ fontWeight: "400", fontSize: "12pt" }}>
           Identify the particular array of the domain and remove the array from
           the installations.php file
@@ -88,7 +89,7 @@ next:
       />
     </li>
     <li>
-      <p>
+      <p></p>
         <span style={{ fontSize: "12pt" }}>
           <span style={{ fontWeight: "400" }}>
             In 1st line of the installations.php, the WordPress installation
@@ -112,7 +113,7 @@ next:
       </span>
     </li>
     <li>
-      <p>
+      <p></p>
         <span style={{ fontWeight: "400", fontSize: "12pt" }}>
           Subtract by 1 the count of the WordPress installation and save the
           file.
@@ -120,7 +121,7 @@ next:
       </p>
     </li>
     <li>
-      <p>
+      <p></p>
         <span style={{ fontWeight: "400", fontSize: "12pt" }}>
           Still facing the same issue rise ticket to softaculous support team
           for a solution.
